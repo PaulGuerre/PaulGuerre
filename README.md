@@ -12,4 +12,4 @@
 
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulobergine&hide=contribs,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulobergine&hide=contribs,issues,prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

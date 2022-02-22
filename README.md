@@ -6,4 +6,4 @@
 - 📘 Connect with me here : <a href="https://www.linkedin.com/in/paul-guerre" target="blank">Linkedin</a>
 - ⚡ Fun fact: **Not too long ago I was doing nested "switch case"** 🤡
 
-<p align="center">[![Profile badge](https://www.codewars.com/users/Paulobergine/badges/large)](https://www.codewars.com/users/Paulobergine)</p>
+[![Profile badge](https://www.codewars.com/users/Paulobergine/badges/large)](https://www.codewars.com/users/Paulobergine)

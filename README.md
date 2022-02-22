@@ -7,4 +7,5 @@
 - ⚡ Fun fact: **Not too long ago I was doing nested "switch case"** 🤡
 
 <br/>
+
 [![Profile badge](https://www.codewars.com/users/Paulobergine/badges/large)](https://www.codewars.com/users/Paulobergine)

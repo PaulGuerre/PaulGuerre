@@ -8,7 +8,11 @@
 
 <br/>
 
-[![Profile badge](https://www.codewars.com/users/Paulobergine/badges/large)](https://www.codewars.com/users/Paulobergine)
+<p align="center">
+  <a href="https://www.codewars.com/users/Paulobergine">
+    <img align="center" src="https://www.codewars.com/users/Paulobergine/badges/large" />
+  </a>
+</p>
 
 <br/>
 

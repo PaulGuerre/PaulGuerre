@@ -13,3 +13,7 @@
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulobergine&hide=contribs,issues,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulobergine)](https://github.com/anuraghazra/github-readme-stats)

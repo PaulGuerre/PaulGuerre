@@ -1,5 +1,3 @@
-### Hi there 👋, I'm Paul GUERRE
-
 <h1 align="center">Hi there 👋, I'm Paul GUERRE</h1>
 <h3 align="center">Computer science student at EFREI PARIS engineering school</h3>
 

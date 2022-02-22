@@ -9,3 +9,5 @@
 <br/>
 
 [![Profile badge](https://www.codewars.com/users/Paulobergine/badges/large)](https://www.codewars.com/users/Paulobergine)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulobergine)](https://github.com/anuraghazra/github-readme-stats)

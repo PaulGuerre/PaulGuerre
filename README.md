@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Paulobergine&hide=contribs,issues,prs&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Paulobergine&hide=issues&theme=tokyonight" />
   </a>
 </p>
 

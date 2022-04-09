@@ -9,14 +9,6 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.codewars.com/users/Paulobergine">
-    <img align="center" src="https://www.codewars.com/users/Paulobergine/badges/large" />
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Paulobergine&hide=issues&theme=tokyonight" />
   </a>

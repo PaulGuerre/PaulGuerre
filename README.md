@@ -30,6 +30,4 @@
   </a>
 </p>
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Paulobergine&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Paulobergine&label=Profile%20views&color=0e75b6&style=flat" alt="Paulobergine's profile views" /> </p>

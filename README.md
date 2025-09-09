@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Paul GUERRE</h1>
-<h3 align="center">Computer science student at EFREI PARIS engineering school</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 📫 How to reach me: contact@paulguerre.fr
-- 📘 Connect with me here : <a href="https://paulguerre.fr" target="blank">Portfolio</a> or <a href="https://www.linkedin.com/in/paul-guerre" target="blank">Linkedin</a>
+- 📘 Connect with me here : <a href="https://www.linkedin.com/in/paul-guerre" target="blank">Linkedin</a>
 
 <br/>
 
